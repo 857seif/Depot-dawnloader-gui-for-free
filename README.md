@@ -34,11 +34,8 @@ The system utilizes a high-performance **dual-stack approach** to maximize throu
 ### 2️⃣ Intelligent Environment Setup
 > [!IMPORTANT]
 > Run **requirements.bat** as **Administrator**. This script automates the installation of the .NET 9 SDK and all necessary Python dependencies.
-> 
-### 3️⃣ Launch the Suite
-```bash
-python luncher.py
-
+>than for built Run **built.bat** as **Administrator**
+or get the fall built from https://github.com/857seif/Depot-dawnloader-gui-for-free/releases/tag/v1.0.0
 ```
 ## 📂 Project Roadmap
  * [x] **Phase 1:** Seamless C# Core / Python UI Hybrid Integration.
