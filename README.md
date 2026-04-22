@@ -2,18 +2,12 @@
 # ⚡ Depot Downloader GUI 🚀
 **The Ultimate Industrial-Grade Steam Depot Management Suite**
 
----
 
-[🛠️ Requirements](#-technical-architecture) • [🚀 Quick Start](#-installation--deployment) • [📑 Roadmap](#-project-roadmap) • [🤝 Support](#-acknowledgements)
 
 </div>
 
 https://github.com/user-attachments/assets/2ccb849c-2be3-479f-bfd1-e27762798798 
 
-
-
-
----
 
 ## 🏛️ Technical Architecture
 
