@@ -61,6 +61,4 @@ Architected and maintained by **[857seif]**.
 <div align="center">
 </div>
 <p align="center">
-<i><b>Disclaimer:</b> This software is provided for educational and research purposes only. The developers are not responsible for any misuse. Users must adhere to the Steam Subscriber Agreement and relevant legal frameworks.</i>
-</p>
-```
+<i><b>Disclaimer:</b> This software is provided for educational and research purposes only. The developers are not responsible for any misuse. Users must adhere to the Steam 
