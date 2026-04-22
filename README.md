@@ -2,24 +2,16 @@
 # ⚡ Depot Downloader GUI 🚀
 **The Ultimate Industrial-Grade Steam Depot Management Suite**
 
-[![GitHub Stars](https://img.shields.io/github/stars/857seif/Depot-downloader-gui-for-free?style=for-the-badge&color=FFD700&logo=github)](https://github.com/857seif/Depot-downloader-gui-for-free)
-[![License](https://img.shields.io/github/license/857seif/Depot-downloader-gui-for-free?style=for-the-badge&color=007BFF)](#)
-[![Python Version](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![.NET Version](https://img.shields.io/badge/.NET-9.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-
----
-
-
-  
-
-https://github.com/user-attachments/assets/2ccb849c-2be3-479f-bfd1-e27762798798
-
-
 ---
 
 [🛠️ Requirements](#-technical-architecture) • [🚀 Quick Start](#-installation--deployment) • [📑 Roadmap](#-project-roadmap) • [🤝 Support](#-acknowledgements)
 
 </div>
+
+https://github.com/user-attachments/assets/2ccb849c-2be3-479f-bfd1-e27762798798 
+
+
+
 
 ---
 
