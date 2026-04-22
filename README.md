@@ -47,9 +47,23 @@ or get the fall built from https://github.com/857seif/Depot-dawnloader-gui-for-f
 We take pride in collaborating with top-tier talent:
  * 👤 **OurEveryday:** Significant contributions to logic and technical infrastructure.
  * 💻 **DepotDownloader:** Foundational C# core logic and Steam protocol implementation.
-## 👤 Author
-Architected and maintained by **[857seif]**.
+
+
+
+## 👑 Author
+
 <div align="center">
+
+### ⚡ **857seif**
+
+*“Building tools that push limits.”*
+
 </div>
-<p align="center">
-<i><b>Disclaimer:</b> This software is provided for educational and research purposes only. The developers are not responsible for any misuse. Users must adhere to the Steam 
+
+---
+
+## ⚠️ Disclaimer
+
+> This project is intended strictly for **educational & research purposes**.
+> Users are responsible for complying with all platform policies.
+ 
