@@ -36,13 +36,6 @@ The system utilizes a high-performance **dual-stack approach** to maximize throu
 
 ---
 
-## 🚀 Installation & Deployment
-
-### 1️⃣ Clone the Repository
-```bash
-git clone [https://github.com/857seif/Depot-downloader-gui-for-free.git](https://github.com/857seif/Depot-downloader-gui-for-free.git)
-cd Depot-downloader-gui-for-free
-
 ```
 ### 2️⃣ Intelligent Environment Setup
 > [!IMPORTANT]
